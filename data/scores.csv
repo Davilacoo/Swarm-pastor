@@ -1,0 +1,10 @@
+timestamp,score,time_s,boids,note
+2026-01-30 15:34:06,600,17.40399999999983,39,reason=You abandoned the swarm! kills=12 beacon=0
+2026-01-30 18:43:11,550,22.846999999999422,18,reason=You abandoned the swarm! kills=11 beacon=0
+2026-01-30 18:44:28,3678,75.79400000000096,39,reason=You abandoned the swarm! kills=52 beacon=1
+2026-01-30 18:47:13,7876,164.10099999998818,25,reason=You abandoned the swarm! kills=119 beacon=1
+2026-01-31 16:47:52,1508,37.87099999999914,33,reason=You abandoned the swarm! kills=23 beacon=0
+2026-01-31 16:52:30,23094,277.022999999963,52,reason=You abandoned the swarm! kills=231 beacon=6
+2026-01-31 17:07:33,30368,398.9760000000122,99,reason=You abandoned the swarm! kills=353 beacon=2
+2026-02-02 18:17:14,570,67.15400000000012,4,reason=You abandoned the swarm! kills=4 beacon=1
+2026-02-03 00:59:53,3150,74.62800000000078,74,reason=You abandoned the swarm! kills=44 beacon=0
